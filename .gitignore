@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs/Olymp/v15
+/.vs
+/src/TestConsoleApp/bin/Debug
+/src/TestConsoleApp/obj
+/src/Tasks/Task.FactorialSum/bin/Debug
+/src/Tasks/Task.FactorialSum/obj
+/src/Tasks/Tasks.Abstract/bin/Debug
+/src/Tasks/Tasks.Abstract/obj
